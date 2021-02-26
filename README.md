@@ -21,4 +21,4 @@ Scripts for data preprocessing pipeline are located in the "Scripts" directory. 
 
 ## Contact
 
-Feel free to submit an issue or contact us at [sunshine_lp0@163.com](sunshine_lp0@163.com) for problems about this project.
+Feel free to submit an issue or contact us at [sunshine_lp0@163.com](mailto:sunshine_lp0@163.com) for problems about this project.
